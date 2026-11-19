@@ -1,5 +1,4 @@
-
-# Linguagem-C Fundamentos
+# Linguagem-C
 # 📚 Estudos em Linguagem C
 
 Este repositório reúne minhas aulas, exercícios práticos, atividades acadêmicas e projetos desenvolvidos durante o semestre, como parte do meu aprendizado em **Linguagem C**, no curso de Análise e Desenvolvimento de Sistemas (ADS).
@@ -21,4 +20,3 @@ O objetivo é documentar minha evolução como desenvolvedor, colocando em prát
 Utilizar este espaço como um portfólio acadêmico, registrando minha evolução, organizando meus códigos e construindo uma base sólida para meu desenvolvimento na área de programação.
 
 **Cada atividade representa uma etapa do meu aprendizado e da minha evolução como desenvolvedor.**
-
