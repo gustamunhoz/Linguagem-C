@@ -1,5 +1,5 @@
-# Linguagem-C---Fundamentoa
-# Linguagem-C
+
+# Linguagem-C Fundamentos
 # 📚 Estudos em Linguagem C
 
 Este repositório reúne minhas aulas, exercícios práticos, atividades acadêmicas e projetos desenvolvidos durante o semestre, como parte do meu aprendizado em **Linguagem C**, no curso de Análise e Desenvolvimento de Sistemas (ADS).
